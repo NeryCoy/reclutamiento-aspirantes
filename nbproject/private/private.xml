@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/main/resources/view/register-view.fxml</file>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/main/java/com/recursos/humanos/reclutamiento/aspirantes/exception/AuthException.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/main/java/com/recursos/humanos/reclutamiento/aspirantes/config/ConnectionDb.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/main/java/com/recursos/humanos/reclutamiento/aspirantes/Main.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/main/java/com/recursos/humanos/reclutamiento/aspirantes/exception/BusinessException.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/main/java/com/recursos/humanos/reclutamiento/aspirantes/controller/DashboardController.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/</file>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/main/java/com/recursos/humanos/reclutamiento/aspirantes/repository/UserRepository.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/main/java/com/recursos/humanos/reclutamiento/aspirantes/config/CredentialsDb.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/main/java/com/recursos/humanos/reclutamiento/aspirantes/security/jbcrypt/BCrypt.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/main/java/com/recursos/humanos/reclutamiento/aspirantes/model/Pais.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/main/java/com/recursos/humanos/reclutamiento/aspirantes/service/UserService.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/main/java/com/recursos/humanos/reclutamiento/aspirantes/utils/SceneManager.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/main/resources/view/login-view.fxml</file>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/main/java/com/recursos/humanos/reclutamiento/aspirantes/model/Usuario.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/main/java/com/recursos/humanos/reclutamiento/aspirantes/model/AspiranteDTO.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/main/java/com/recursos/humanos/reclutamiento/aspirantes/controller/RegisterController.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/main/resources/view/dashboard-view.fxml</file>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/main/java/com/recursos/humanos/reclutamiento/aspirantes/service/AspiranteService.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/main/java/com/recursos/humanos/reclutamiento/aspirantes/repository/AspiranteRepository.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/main/java/com/recursos/humanos/reclutamiento/aspirantes/controller/LoginController.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/reclutamiento-aspirantes/src/main/java/com/recursos/humanos/reclutamiento/aspirantes/model/Rol.java</file>
+        </group>
+    </open-files>
+</project-private>
